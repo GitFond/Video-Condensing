@@ -1,1 +1,1 @@
-# Video-summarization
+# Video-Condensing
